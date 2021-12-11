@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 17
+Class-Path: lib/spring-boot-starter-2.6.1.jar lib/spring-boot-2.6.1.jar 
+ lib/spring-context-5.3.13.jar lib/spring-aop-5.3.13.jar lib/spring-bean
+ s-5.3.13.jar lib/spring-expression-5.3.13.jar lib/spring-boot-autoconfi
+ gure-2.6.1.jar lib/spring-boot-starter-logging-2.6.1.jar lib/logback-cl
+ assic-1.2.7.jar lib/logback-core-1.2.7.jar lib/log4j-to-slf4j-2.14.1.ja
+ r lib/log4j-api-2.14.1.jar lib/jul-to-slf4j-1.7.32.jar lib/jakarta.anno
+ tation-api-1.3.5.jar lib/spring-core-5.3.13.jar lib/spring-jcl-5.3.13.j
+ ar lib/snakeyaml-1.29.jar lib/slf4j-api-1.7.32.jar
+Implementation-Title: springJenkinsDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springJenkinsDemo
+Implementation-URL: https://spring.io/projects/spring-boot/springJenkins
+ Demo
+Main-Class: com.springJenkinsDemo.SpringJenkinsDemoApplication
+Created-By: Maven Integration for Eclipse
+
